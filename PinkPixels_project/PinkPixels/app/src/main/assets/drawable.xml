@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+    <category title="Pink Pixels" />
+    <item drawable="phone" />
+    <item drawable="messages" />
+    <item drawable="camera" />
+    <item drawable="gallery" />
+    <item drawable="browser" />
+    <item drawable="settings" />
+    <item drawable="clock" />
+    <item drawable="calculator" />
+    <item drawable="calendar" />
+    <item drawable="maps" />
+    <item drawable="music" />
+    <item drawable="mail" />
+    <item drawable="files" />
+    <item drawable="contacts" />
+    <item drawable="notes" />
+    <item drawable="store" />
+    <item drawable="video" />
+    <item drawable="weather" />
+    <item drawable="downloads" />
+    <item drawable="games" />
+</resources>
